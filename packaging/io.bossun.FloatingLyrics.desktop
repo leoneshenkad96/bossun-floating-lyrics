@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Bossun Floating Lyrics
+Comment=Show synced Spotify lyrics over your desktop
+Exec=bossun-floating-lyrics
+Icon=io.bossun.FloatingLyrics
+Terminal=false
+Categories=AudioVideo;Audio;Qt;
+StartupNotify=false
